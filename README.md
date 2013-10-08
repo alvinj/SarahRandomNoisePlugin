@@ -3,8 +3,12 @@ Sarah 'Random Noise' Plugin
 ===========================
 
 Add this plugin to Sarah to enable random sounds to be played.
-(You'll also need to add some configuration files ... somewhere.
-I'll document that more over time.)
+It actually (a) plays sound clips and (b) 'speaks' text/sentences
+you supply at random times.
+
+You can control the time delay, though I (sadly) haven't documented
+that here yet. (I'm just trying to get all this code into Github today
+before I have to move on to something else.)
 
 
 Developers
